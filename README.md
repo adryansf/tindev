@@ -36,4 +36,4 @@ _How can I use the mobile application?_
 
 ## Comments
 
--Edit 
+-Edit the o IP in ```tindev/services/api.js``` and ```frontend/services/api.js```
