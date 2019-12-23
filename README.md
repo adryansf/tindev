@@ -10,7 +10,7 @@
 ## Backend
 
 
-_How I can use the backend ?_
+_How can I use the backend ?_
 
 -Go to backend folder  
 -Install the modules with the command ```npm install``` or (Use yarn)  
@@ -19,7 +19,7 @@ _How I can use the backend ?_
 
 ## Web
 
-_How I can use the web application?_
+_How can I use the web application?_
 
 -Go to frontend folder  
 -Install the modules with the command ```npm install``` or (Use yarn)  
@@ -27,9 +27,13 @@ _How I can use the web application?_
 
 ## Mobile
 
-_How I can use the mobile application?_
+_How can I use the mobile application?_
 
--Go to tindev folder  
+-Go to tindev folder
 -Install the expo with the command ```npm install expo-cli --global```   
 -Install the modules with the command ```npm install``` or (Use yarn)  
--Run the server(```npm run start``` or ```yarn start```)  
+-Run the server(```npm run start``` or ```yarn start```)
+
+## Comments
+
+-Edit 
